@@ -61,5 +61,5 @@ Contributions are welcome! Fork the repository and submit a pull request with yo
 This project is licensed under the MIT License.
 
 ## Contact
-For inquiries or contributions, contact [your email] or visit [GitHub Repository Link].
+For inquiries or contributions, contact cvy.ful@gmail.com
 
